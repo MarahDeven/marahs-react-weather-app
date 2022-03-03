@@ -33,10 +33,11 @@
   list-style: none;
 }
 
-.Weather img {
+.Weather canvas {
   vertical-align: top;
   margin-right: 10px;
   width: 64px;
+  color: goldenrod;
 }
 
 .Weather .temperature {
