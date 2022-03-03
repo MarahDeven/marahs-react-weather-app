@@ -34,9 +34,9 @@
 }
 
 .Weather canvas {
-  vertical-align: top;
+  display: inline;
   margin-right: 10px;
-  width: 64px;
+  margin-top: 5px;
   color: goldenrod;
 }
 
